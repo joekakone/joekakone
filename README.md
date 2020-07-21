@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Joseph Konka from Togo. [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joekakone)](https://github.com/joekakone) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://github.com/josephkonka1999)](https://github.com/josephkonka1999) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-koami-konka/)](https://www.linkedin.com/in/joseph-koami-konka/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseph.kakone@gmail.com)](mailto:joseph.kakone@gmail.com)
+## 👋 Hello, I’m Joseph Konka from Togo. [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joekakone)](https://github.com/joekakone) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/josephkonka1999)](https://github.com/josephkonka1999) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-koami-konka/)](https://www.linkedin.com/in/joseph-koami-konka/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://github.com/josephkonka1999)](https://github.com/josephkonka1999) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseph.kakone@gmail.com)](mailto:joseph.kakone@gmail.com)
 <!--
 [Linkedin](https://www.linkedin.com/in/joseph-koami-konka) - [Facebook](https://www.facebook.com/josephkonka1999) - [Twitter](https://twitter.com/joe_kakone)
 -->
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working at [RINTIO](http://www.rintio.com) as Junior Data Scientist. I received my  [Discover more](http://joekakone.github.io/)
+🔭 I’m currently working at [RINTIO](http://www.rintio.com) as Junior Data Scientist. I received his bachelor of mathematics at University of Lomé in 2019. I'm currently living at Cotonou.  [Discover more](http://joekakone.github.io/)
 
 ### Skills
 💬  `Mathematics`|`Machine Learning`|`Deep Learning`
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" />
   <img src="https://img.shields.io/badge/Scilab-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
+  <img src="https://img.shields.io/badge/Scikit-learn-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Tensorflow-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Flask-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
