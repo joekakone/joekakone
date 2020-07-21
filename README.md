@@ -32,5 +32,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
 </p>
+
 ### Hobbies
 😄 `Rap Music`|`Footbal`|`Gaming`|`Movies`
