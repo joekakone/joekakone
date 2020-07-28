@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working at [RINTIO](http://www.rintio.com) as Junior Data Scientist. I received his bachelor of mathematics at University of Lomé in 2019. I'm currently living at Cotonou.  [Discover more](http://joekakone.github.io/)
+🔭 I’m currently working at [RINTIO](http://www.rintio.com) as Junior Data Scientist. I received my bachelor of mathematics at University of Lomé in 2019. I'm currently living at Cotonou.  [Discover more](http://joekakone.github.io/)
 
 ### Skills
-💬  `Mathematics`|`Machine Learning`|`Deep Learning`
+💬  `Mathematics`|`Statistics`|`Optimization`|`Machine Learning`
 <p>
   <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
-  <img src="https://img.shields.io/badge/Html5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" />
-  <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" />
+  <img src="https://img.shields.io/badge/Html5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
+  <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/Scilab-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Scikit-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
