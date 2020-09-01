@@ -4,25 +4,26 @@
 ![Facebook Cover](https://scontent.fcoo1-2.fna.fbcdn.net/v/t1.0-9/87528566_2580103492256250_5431444358672941056_n.png?_nc_cat=111&_nc_sid=dd9801&_nc_eui2=AeE3NuQvOyPimuhJSvQSY1d6wzT1nGHV-ZnDNPWcYdX5mXHJh6TvvlW1-L8EDebX2S15ZXyC6B8ggXcDnDJBRKOM&_nc_ohc=3wDuwIgSrQ0AX-bIun9&_nc_ht=scontent.fcoo1-2.fna&oh=7bb9ed980c0ad9f8b1a28f17f4ed1900&oe=5F3C1CF0)
 -->
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🔭 I’m currently working at [RINTIO](http://www.rintio.com) as Junior Data Scientist. I received my bachelor of mathematics at University of Lomé in 2019. I'm currently living at Cotonou.  [Discover more](http://joekakone.github.io/)
+🔭 I work at [RINTIO](http://www.rintio.com) as Junior Data Scientist.<br>
+📔 I received my bachelor of mathematics at University of Lomé in 2019.<br>
+🌱 I am looking for a master's degree in Statistics.<br>
+[View my resume](http://joekakone.github.io/)
 
 ### Interests
-💬  `Mathematics`|`Statistics`|`Optimization`|`Machine Learning`
+💬  `Mathematics`|`Statistics`|`Optimization`|`Programming`|`Machine Learning`
 
 ### Skills
+<p>
+  <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
+  <img src="https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
+  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
+  <img src="https://img.shields.io/badge/Scikit-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
+  <img src="https://img.shields.io/badge/Tensorflow-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
+  <img src="https://img.shields.io/badge/Flask-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
+  <img src="https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
+</p>
+
+<!--
 <p>
   <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
 </p>
+-->
 
 ### Hobbies
 😄 `Rap Music`|`Footbal`|`Gaming`|`Movies`
