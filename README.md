@@ -1,9 +1,5 @@
 ## 👋 Hello, I’m Joseph Konka from Togo. [[Resume]](http://joekakone.github.io/)
 
-<!--
-![Facebook Cover](https://scontent.fcoo1-2.fna.fbcdn.net/v/t1.0-9/87528566_2580103492256250_5431444358672941056_n.png?_nc_cat=111&_nc_sid=dd9801&_nc_eui2=AeE3NuQvOyPimuhJSvQSY1d6wzT1nGHV-ZnDNPWcYdX5mXHJh6TvvlW1-L8EDebX2S15ZXyC6B8ggXcDnDJBRKOM&_nc_ohc=3wDuwIgSrQ0AX-bIun9&_nc_ht=scontent.fcoo1-2.fna&oh=7bb9ed980c0ad9f8b1a28f17f4ed1900&oe=5F3C1CF0)
--->
-
 🔭 I work at [RINTIO](http://www.rintio.com) as Junior Data Scientist.<br>
 📔 I received my bachelor of mathematics at University of Lomé in 2019.<br>
 🌱 I am looking for a master's degree in Statistics.<br>
