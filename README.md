@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Scikit-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Tensorflow-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
-  <img src="https://img.shields.io/badge/Html-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
+  <img src="https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/Flask-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
