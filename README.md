@@ -1,7 +1,7 @@
 ## 👋 Hello, I’m Joseph Konka from Togo. [[Resume]](http://joekakone.github.io/)
 
-🔭 I am Data Scientist at [RINTIO](http://www.rintio.com).<br>
-📔 I received my bachelor of mathematics at University of Lomé in 2019.<br>
+🔭 I am Junior Data Scientist at [RINTIO](http://www.rintio.com).<br>
+📔 I received my bachelor's of mathematics at University of Lomé in 2019.<br>
 🌱 I am looking for a master's degree in Statistics.<br>
 
 ### Interests Topics
