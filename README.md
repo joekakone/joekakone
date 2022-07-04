@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Joseph Konka from Togo. [[Resume]](http://joekakone.github.io/)
+## 👋 Hello, I’m Joseph Konka from Togo. [[Resume]](http://hide.joekakone.github.io/)
 
 🔭 I am Junior Data Scientist at [RINTIO](http://www.rintio.com).<br>
 📔 I received my bachelor's of mathematics at University of Lomé in 2019.<br>
