@@ -3,7 +3,7 @@
 ## Hi all, I'm Joseph Konka
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/joekakonepage)](https://www.facebook.com/joekakonepage) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-koami-konka/)](https://www.linkedin.com/in/joseph-koami-konka/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/joekakone)](https://www.twitter.com/joekakone) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseph.kakone@gmail.com)](mailto:joseph.kakone@gmail.com)
 
-## I'm Data Science Specialist [[Resume]](https://josephkonka.com)
+## I'm Data Specialist [[Resume]](https://joekakone.github.io)
 🔭 I am Data Analyst at [Yas Togo](https://www.yas.tg).<br>
 📔 I received my bachelor's of mathematics at University of Lomé in 2019.<br>
 🌱 I also completed an Executive Master in AI & Data Analytics at HEC Maroc in 2024.<br>
@@ -14,7 +14,7 @@
 *  `Data Analytics`
 *  `Project Management`
 
-## Skills
+## Tools
 <p>
   <img src="https://img.shields.io/badge/Flask-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/Apache Airflow-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
 </p>
 
+---
 ## Programming Languages
 <table>
   <tbody>
@@ -44,21 +45,9 @@
   </tbody>
 </table>
 
+---
 ## 😄 Hobbies
 * `Rap Music`
 * `Footbal`
 * `Gaming`
 * `Movies`
-
----
-
-<img width="50%" align="#" src="https://github-readme-stats.vercel.app/api?username=joekakone&show_icons=true&hide_border=true" />
-
----
-
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joekakone&layout=compact" />
-</a>
-
----
-
