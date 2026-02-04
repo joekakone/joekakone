@@ -4,47 +4,25 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/joekakonepage)](https://www.facebook.com/joekakonepage) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-koami-konka/)](https://www.linkedin.com/in/joseph-koami-konka/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/joekakone)](https://www.twitter.com/joekakone) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseph.kakone@gmail.com)](mailto:joseph.kakone@gmail.com)
 
 ## I'm Data Science Specialist [[Resume]](https://josephkonka.com)
-🔭 I am Data Analyst at [Togocom](https://www.togocom.tg).<br>
+🔭 I am Data Analyst at [Yas Togo](https://www.yas.tg).<br>
 📔 I received my bachelor's of mathematics at University of Lomé in 2019.<br>
-🌱 I am looking for a master's degree in Statistics.<br>
-<!--🌱 I am currently doing an executive master's degree in AI & Data Analytics at HEC Maroc.<br>-->
+🌱 I also completed an Executive Master in AI & Data Analytics at HEC Maroc in 2024.<br>
 
-## 💬 Interests Topics
-*  `Algorithms & Data Structures`
-*  `Programming`
-*  `SQL & Databases`
-*  `Business Intelligence & Data Analytics`
-*  `Machine Learning & Artificial Intelligence`
-
-## Top Certifications
-<p>
-  <img src="https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" width="110" height="110"/>
-  <img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="110" height="110"/>
-  <img src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" width="110" height="110"/>
-</p>
+## Expertise
+*  `Python Programming`
+*  `Data Engineering`
+*  `Data Analytics`
+*  `Project Management`
 
 ## Skills
 <p>
+  <img src="https://img.shields.io/badge/Flask-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
+  <img src="https://img.shields.io/badge/Apache Airflow-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
+  <img src="https://img.shields.io/badge/Power BI-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Scikit-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Tensorflow-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
-  <img src="https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
-  <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
-  <img src="https://img.shields.io/badge/Flask-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
-  <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
   <img src="https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
-  <img src="https://img.shields.io/badge/Tableau-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
-  <img src="https://img.shields.io/badge/Power BI-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
 </p>
-<!--   
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code> 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
--->
 
 ## Programming Languages
 <table>
