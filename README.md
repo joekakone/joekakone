@@ -47,7 +47,4 @@
 
 ---
 ## 😄 Hobbies
-* `Rap Music`
-* `Footbal`
-* `Gaming`
-* `Movies`
+`Rap Music` | `Footbal` | `Gaming` | `Movies`
