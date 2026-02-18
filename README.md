@@ -9,10 +9,10 @@
 🌱 I also completed an Executive Master in AI & Data Analytics at HEC Maroc in 2024.<br>
 
 ## Expertise
-*  `Python Programming`
+*  `Project Management`
 *  `Data Engineering`
 *  `Data Analytics`
-*  `Project Management`
+*  `Python Programming`
 
 ## Tools
 <p>
