@@ -17,11 +17,11 @@
 ## Tools
 <p>
   <img src="https://img.shields.io/badge/SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
+  <img src="https://img.shields.io/badge/Excel-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Power BI-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
-  <img src="https://img.shields.io/badge/Apache Airflow-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/SSAS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
-  <img src="https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
+  <img src="https://img.shields.io/badge/Apache Airflow-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
 </p>
 
 ---
