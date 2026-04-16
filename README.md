@@ -21,6 +21,5 @@
   <img src="https://img.shields.io/badge/Apache Airflow-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
 </p>
 
----
 ## 😄 Hobbies
 `Rap Music` | `Footbal` | `Gaming` | `Movies`
